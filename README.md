@@ -128,15 +128,15 @@ Prompts users for required fields dynamically.
 
 ## Market Order
 
-![Market Order](screenshots/Market_Order.png)
+![Market Order](screenshots/Market%20Order.png)
 
 ## Limit Order
 
-![Limit Order](screenshots/Limit_Order.png)
+![Limit Order](screenshots/Limit%20Order.png)
 
 ## Stop-Limit Order
 
-![Stop Limit Order](screenshots/Stop_Order.png)
+![Stop Limit Order](screenshots/Stop%20Order.png)
 
 ---
 
