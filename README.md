@@ -2,11 +2,6 @@
 
 <div align="center">
 
-
-![Binance](https://img.shields.io/badge/Binance-Futures_Testnet-F3BA2F?logo=binance)
-![Binance Futures](https://img.shields.io/badge/Binance-Futures_Testnet-F3BA2F?logo=binance)
-![API](https://img.shields.io/badge/API-Binance_Derivatives-yellow)
-
 **A clean, modular Python trading bot for Binance Futures Testnet with Market, Limit, and Stop-Limit order support, validation, logging, and interactive CLI experience.**
 
 </div>
@@ -78,7 +73,6 @@ Displays:
 
 Logs:
 
-* API requests
 * API responses
 * Validation failures
 * Network errors
@@ -419,7 +413,9 @@ Example:
   "type": "MARKET"
 }
 ```
-For readability, only the most relevant response fields are shown above. Full logs contain the complete Binance API response payload.
+
+> **Note:** Log output has been shortened for readability. The actual log file contains the full Binance API response.
+
 ---
 
 # 🛡 Validation Rules
