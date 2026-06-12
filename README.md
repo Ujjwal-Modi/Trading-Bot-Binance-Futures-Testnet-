@@ -1,6 +1,6 @@
 # 🚀 Binance Futures Testnet Trading Bot
 
-<div align="center">
+<div >
 
 **A clean, modular Python trading bot for Binance Futures Testnet with Market, Limit, and Stop-Limit order support, validation, logging, and interactive CLI experience.**
 
@@ -124,26 +124,26 @@ Prompts users for required fields dynamically.
 
 ### Main Menu
 
-<p align="center">
-  <img src="screenshots/menu.png" width="500">
+<p >
+  <img src="screenshots/menu.png" width="200">
 </p>
 
 ### Market Order
 
-<p align="center">
-  <img src="screenshots/Market%20Order.png" width="700">
+<p >
+  <img src="screenshots/Market%20Order.png" width="200">
 </p>
 
 ### Limit Order
 
-<p align="center">
-  <img src="screenshots/Limit%20Order.png" width="700">
+<p >
+  <img src="screenshots/Limit%20Order.png" width="200">
 </p>
 
 ### Stop-Limit Order
 
-<p align="center">
-  <img src="screenshots/Stop%20Order.png" width="700">
+<p >
+  <img src="screenshots/Stop%20Order.png" width="200">
 </p>
 
 ---
