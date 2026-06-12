@@ -120,23 +120,31 @@ Prompts users for required fields dynamically.
 
 ---
 
-# 🎥 Demo
+## 🎥 Demo
 
-## Main Menu
+### Main Menu
 
-![Main Menu](screenshots/menu.png)
+<p align="center">
+  <img src="screenshots/menu.png" width="500">
+</p>
 
-## Market Order
+### Market Order
 
-![Market Order](screenshots/Market_Order.png)
+<p align="center">
+  <img src="screenshots/Market%20Order.png" width="700">
+</p>
 
-## Limit Order
+### Limit Order
 
-![Limit Order](screenshots/Limit_Order.png)
+<p align="center">
+  <img src="screenshots/Limit%20Order.png" width="700">
+</p>
 
-## Stop-Limit Order
+### Stop-Limit Order
 
-![Stop Limit Order](screenshots/Stop_Order.png)
+<p align="center">
+  <img src="screenshots/Stop%20Order.png" width="700">
+</p>
 
 ---
 
